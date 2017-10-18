@@ -1,5 +1,5 @@
 # *Arduino for Neurobiologists*
-# Nanocourse, Fall 2017
+Nanocourse, Fall 2017
 
 Welcome to the course website. After each lecture we will post links to the lecture slides and assignments. You will also find links to helpful resources.
 
