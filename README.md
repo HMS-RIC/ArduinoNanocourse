@@ -16,23 +16,22 @@ coming soon...
 
 
 ### Help/Reference
-- [www.arduino.cc](www.arduino.cc)
-- [learn.sparkfun.com](learn.sparkfun.com)
-- [arduino.stackexchange.com](arduino.stackexchange.com/)
-- [All About Circuits online textbook](www.allaboutcircuits.com/textbook)
-- [gammon.com.au](gammon.com.au/forum/bbshowpost.php?bbtopic_id=123)
+- [www.arduino.cc](http://www.arduino.cc)
+- [learn.sparkfun.com](http://learn.sparkfun.com)
+- [arduino.stackexchange.com](http://arduino.stackexchange.com/)
+- [All About Circuits online textbook](http://www.allaboutcircuits.com/textbook)
+- [gammon.com.au](http://gammon.com.au/forum/bbshowpost.php?bbtopic_id=123)
 
 ### Introductory kit with parts & instructions:
-- [SparkFun Inventor's Kit](www.sparkfun.com/products/14189) \(~$100\)
+- [SparkFun Inventor's Kit](http://www.sparkfun.com/products/14189) \(~$100\)
 
 ### Parts
 These 3 stores have a curated selection and information for new users:
-- [www.sparkfun.com](www.sparkfun.com)
-- [www.adafruit.com](www.adafruit.com)
-- [www.pololu.com](www.pololu.com)  \(primarily robotics\)
+- [www.sparkfun.com](http://www.sparkfun.com)
+- [www.adafruit.com](http://www.adafruit.com)
+- [www.pololu.com](http://www.pololu.com)  \(primarily robotics\)
 
 These major distributors have an overwhelming selection of all possible components:
-- [www.digikey.com](www.digikey.com)
-- [www.newark.com](www.newark.com)
-- [www.mouser.com](www.mouser.com)
-
+- [www.digikey.com](http://www.digikey.com)
+- [www.newark.com](http://www.newark.com)
+- [www.mouser.com](http://www.mouser.com)
