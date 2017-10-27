@@ -10,7 +10,9 @@ Welcome to the course website. After each lecture we will post links to the lect
 - [Assignment 1 Answers](https://www.dropbox.com/s/5fbn25b251v6mhh/Assignment%201%20Answers.zip?dl=0)
 
 ## Class 2 (10/27)
-coming soon...
+- [Lecture Slides](https://www.dropbox.com/s/cderakbbw0wla0g/Arduino%20Nanocourse%20Day%202%20-%20Fall%202017%20Slides%20Final.pdf?dl=0)
+- [Assignment 2 (Nose Poke)](https://www.dropbox.com/s/um89oaup4jyebox/Project%202%20-%20Nose%20Poke.pdf?dl=0)
+
 ## Class 3 (10/30)
 coming soon...
 ## Class 4 (11/3)
