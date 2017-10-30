@@ -14,7 +14,7 @@ Welcome to the course website. After each lecture we will post links to the lect
 - [Assignment 2 (Nose Poke)](https://www.dropbox.com/s/um89oaup4jyebox/Project%202%20-%20Nose%20Poke.pdf?dl=0)
 
 ## Class 3 (10/30)
--[Lecture Slides](https://www.dropbox.com/s/x54x8ozu1jzeegw/arduino_nanocourse_3_software.pdf?dl=0)
+- [Lecture Slides](https://www.dropbox.com/s/x54x8ozu1jzeegw/arduino_nanocourse_3_software.pdf?dl=0)
 
 ## Class 4 (11/3)
 coming soon...
