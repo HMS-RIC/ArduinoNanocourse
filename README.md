@@ -4,7 +4,7 @@ Nanocourse, Fall 2018
 Welcome to the course website. After each lecture we will post links to the lecture slides and assignments. You will also find links to helpful resources.
 
 ## Class 1 (11/4)
-- [Lecture Slides]()
+- [Lecture Slides](https://www.dropbox.com/s/ncjqtzd9losd67f/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf?dl=0)
 - [Basic Blink program](https://www.dropbox.com/s/0wto03wqkgqaezc/Basic_Blink.zip?dl=0)
 - [Assignment 1](https://www.dropbox.com/s/6bdhmxu294h6btg/Nanocourse%20Project%20Day%201.pdf?dl=0)
 - [Assignment 1 Answers](https://www.dropbox.com/s/5fbn25b251v6mhh/Assignment%201%20Answers.zip?dl=0)
