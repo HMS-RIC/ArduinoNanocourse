@@ -1,22 +1,28 @@
 # *Arduino for Neurobiologists*
-Nanocourse, Fall 2017
+Nanocourse, Fall 2018
 
 Welcome to the course website. After each lecture we will post links to the lecture slides and assignments. You will also find links to helpful resources.
 
-## Class 1 (10/23)
-- [Lecture Slides](https://www.dropbox.com/s/mg4mu2ykffqukdh/Arduino%20Nanocourse%20Day%201%20-%20Fall%202017.pdf?dl=0)
-- [Basic Blink program](https://www.dropbox.com/s/qhb1f8ul2ip6n0w/Basic_Blink.ino?dl=0)
-- [Assignment 1](https://www.dropbox.com/s/f3vum9ix56zgln0/Nanocourse%20Project%20Day%201.pdf?dl=0)
+## Class 1 (11/4)
+- [Lecture Slides]()
+- [Basic Blink program](https://www.dropbox.com/s/0wto03wqkgqaezc/Basic_Blink.zip?dl=0)
+- [Assignment 1](https://www.dropbox.com/s/6bdhmxu294h6btg/Nanocourse%20Project%20Day%201.pdf?dl=0)
 - [Assignment 1 Answers](https://www.dropbox.com/s/5fbn25b251v6mhh/Assignment%201%20Answers.zip?dl=0)
 
-## Class 2 (10/27)
+## Class 2 (11/6)
+coming soon...
+<!---
 - [Lecture Slides](https://www.dropbox.com/s/cderakbbw0wla0g/Arduino%20Nanocourse%20Day%202%20-%20Fall%202017%20Slides%20Final.pdf?dl=0)
 - [Assignment 2 (Nose Poke)](https://www.dropbox.com/s/um89oaup4jyebox/Project%202%20-%20Nose%20Poke.pdf?dl=0)
+--->
 
-## Class 3 (10/30)
+## Class 3 (11/11)
+coming soon...
+<!---
 - [Lecture Slides](https://www.dropbox.com/s/x54x8ozu1jzeegw/arduino_nanocourse_3_software.pdf?dl=0)
+--->
 
-## Class 4 (11/3)
+## Class 4 (11/13)
 coming soon...
 
 ## Useful Links
