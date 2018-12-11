@@ -23,9 +23,7 @@ Welcome to the course website. After each lecture we will post links to the lect
   - [Arduino millis() rollover](https://www.dropbox.com/s/7i0va5cida71z73/arduino_uno_millis_rollover.zip?dl=0)
 - More Example Code
   - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](https://www.dropbox.com/s/izibsk23coc42sn/ArduinoDataLogging.zip?dl=0)
-<!---
 - [Assignment 3 Answers — Nose Poke with User Inputs](https://www.dropbox.com/s/4u5bj1zchqvv1ok/NosePokeWithUserInputs_Answer.zip?dl=0)
---->
 
 ## Class 4 (11/13)
 coming soon...
