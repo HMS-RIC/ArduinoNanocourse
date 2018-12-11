@@ -16,7 +16,7 @@ Welcome to the course website. After each lecture we will post links to the lect
 
 ## Class 3 (11/11)
 - [Lecture Slides](https://www.dropbox.com/s/13z8rec7tin7c8v/Project%203%20-%20Behavior%20box%20contd..pdf?dl=0)
-- [Assignment 3](https://www.dropbox.com/s/13z8rec7tin7c8v/Project%203%20-%20Behavior%20box%20contd..pdf?dl=0)
+- [Assignment 3](https://www.dropbox.com/s/du146d86r7rjdhc/Project%203%20-%20Behavior%20box%20contd.pdf?dl=0)
 - Examples from lecture:
   - [Demos](https://www.dropbox.com/s/ckagmnebrtuj95y/arduino_course_fall18_class3.zip?dl=0)
   - [Arduino Serial Parsing Example](https://www.dropbox.com/s/3gh61zb6z0n85ze/simple_serial_parsing.zip?dl=0)
