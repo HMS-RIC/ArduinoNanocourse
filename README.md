@@ -15,8 +15,6 @@ Welcome to the course website. After each lecture we will post links to the lect
 - [Assignment 2 Answers](https://www.dropbox.com/s/zy7lg9hptq0wwja/Assignment2_Answer.zip?dl=0)
 
 ## Class 3 (11/11)
-coming soon...
-
 - [Lecture Slides](https://www.dropbox.com/s/13z8rec7tin7c8v/Project%203%20-%20Behavior%20box%20contd..pdf?dl=0)
 - [Assignment 3](https://www.dropbox.com/s/13z8rec7tin7c8v/Project%203%20-%20Behavior%20box%20contd..pdf?dl=0)
 - Examples from lecture:
