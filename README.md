@@ -26,12 +26,9 @@ Welcome to the course website. After each lecture we will post links to the lect
 - [Assignment 3 Answers — Nose Poke with User Inputs](https://www.dropbox.com/s/4u5bj1zchqvv1ok/NosePokeWithUserInputs_Answer.zip?dl=0)
 
 ## Class 4 (11/13)
-coming soon...
-<!---
-- [Lecture Slides]()
-- [Arduino Serial Parsing Example](https://www.dropbox.com/s/3gh61zb6z0n85ze/simple_serial_parsing.zip?dl=0)
-- [Nose Poke with User Inputs](https://www.dropbox.com/s/4u5bj1zchqvv1ok/NosePokeWithUserInputs_Answer.zip?dl=0)
---->
+- Lecture Slides: link is provided at the end of the class survey. (Thanks for your candid feedback.)
+- [Multimeter Assignment](https://www.dropbox.com/s/e4xrrv6s3c5mrgf/DMM%20Assignment.pdf?dl=0)
+
 
 
 ## Useful Links
