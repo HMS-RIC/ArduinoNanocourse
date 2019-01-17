@@ -4,30 +4,30 @@ Nanocourse, Fall 2018
 Welcome to the course website. After each lecture we will post links to the lecture slides and assignments. You will also find links to helpful resources.
 
 ## Class 1 (11/4)
-- [Lecture Slides](Class 1 Introduction/Arduino Nanocourse Day 1 - Fall 2018.pdf)
-- [Basic Blink program](https://www.dropbox.com/s/0wto03wqkgqaezc/Basic_Blink.zip?dl=0)
-- [Assignment 1](https://www.dropbox.com/s/6bdhmxu294h6btg/Nanocourse%20Project%20Day%201.pdf?dl=0)
-- [Assignment 1 Answers](https://www.dropbox.com/s/5fbn25b251v6mhh/Assignment%201%20Answers.zip?dl=0)
+- [Lecture Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf)
+- [Basic Blink program](Class%201%20Introduction/Basic_Blink.zip)
+- [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf)
+- [Assignment 1 Answers](Class%201%20Introduction/Assignment%201%20Answers.zip)
 
 ## Class 2 (11/6)
-- [Lecture Slides](https://www.dropbox.com/s/w2oj9stpxs0p1sv/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf?dl=0)
-- [Assignment 2 (Nose Poke)](https://www.dropbox.com/s/77vp4k14g2uutay/Project%202%20-%20Nose%20Poke.pdf?dl=0)
-- [Assignment 2 Answers](https://www.dropbox.com/s/zy7lg9hptq0wwja/Assignment2_Answer.zip?dl=0)
+- [Lecture Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf)
+- [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke.pdf)
+- [Assignment 2 Answers](Class%202%20Electronics/Assignment2_Answer.zip)
 
 ## Class 3 (11/11)
-- [Lecture Slides](https://www.dropbox.com/s/7pgbgxrpxskjj9d/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf?dl=0)
-- [Assignment 3](https://www.dropbox.com/s/du146d86r7rjdhc/Project%203%20-%20Behavior%20box%20contd.pdf?dl=0)
+- [Lecture Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf)
+- [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf)
 - Examples from lecture:
-  - [Demos](https://www.dropbox.com/s/ckagmnebrtuj95y/arduino_course_fall18_class3.zip?dl=0)
-  - [Arduino Serial Parsing Example](https://www.dropbox.com/s/3gh61zb6z0n85ze/simple_serial_parsing.zip?dl=0)
-  - [Arduino millis() rollover](https://www.dropbox.com/s/7i0va5cida71z73/arduino_uno_millis_rollover.zip?dl=0)
+  - [Demos](Class%203%20Software/arduino_course_fall18_class3.zip)
+  - [Arduino Serial Parsing Example](Class%203%20Software/simple_serial_parsing.zip)
+  - [Arduino millis() rollover](Class%203%20Software/arduino_uno_millis_rollover.zip)
 - More Example Code
-  - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](https://www.dropbox.com/s/izibsk23coc42sn/ArduinoDataLogging.zip?dl=0)
-- [Assignment 3 Answers — Nose Poke with User Inputs](https://www.dropbox.com/s/4u5bj1zchqvv1ok/NosePokeWithUserInputs_Answer.zip?dl=0)
+  - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](Class%203%20Software/ArduinoDataLogging.zip)
+- [Assignment 3 Answers — Nose Poke with User Inputs](Class%203%20Software/NosePokeWithUserInputs_Answer.zip)
 
 ## Class 4 (11/13)
-- Lecture Slides: link is provided at the end of the class survey. (Thanks for your candid feedback.)
-- [Multimeter Assignment](https://www.dropbox.com/s/e4xrrv6s3c5mrgf/DMM%20Assignment.pdf?dl=0)
+- [Lecture Slides](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
+- [Multimeter Assignment](Class%204%20Debugging/DMM%20Assignment.pdf)
 
 
 
