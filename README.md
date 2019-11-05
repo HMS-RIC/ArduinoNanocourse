@@ -5,8 +5,8 @@ Welcome to the course website. After each lecture we will post links to the lect
 
 ## Class 1 (11/12)
 - [Lecture Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf)
-- [Basic Blink program](Class%201%20Introduction/Basic_Blink.zip)
 - [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf)
+  - [Download Basic Blink program](Class%201%20Introduction/Basic_Blink.zip?raw=true)
 - [Assignment 1 Answers](Class%201%20Introduction/Assignment%201%20Answers.zip)
 
 ## Class 2 (11/15)
