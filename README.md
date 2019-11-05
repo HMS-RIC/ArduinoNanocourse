@@ -1,20 +1,20 @@
-# *Arduino for Neurobiologists*
-Nanocourse, Fall 2018
+# *Arduino for (Neuro)Biologists*
+Nanocourse, Fall 2019
 
 Welcome to the course website. After each lecture we will post links to the lecture slides and assignments. You will also find links to helpful resources.
 
-## Class 1 (11/4)
+## Class 1 (11/12)
 - [Lecture Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf)
 - [Basic Blink program](Class%201%20Introduction/Basic_Blink.zip)
 - [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf)
 - [Assignment 1 Answers](Class%201%20Introduction/Assignment%201%20Answers.zip)
 
-## Class 2 (11/6)
+## Class 2 (11/15)
 - [Lecture Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf)
 - [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke.pdf)
 - [Assignment 2 Answers](Class%202%20Electronics/Assignment2_Answer.zip)
 
-## Class 3 (11/11)
+## Class 3 (11/19)
 - [Lecture Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf)
 - [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf)
 - Examples from lecture:
@@ -25,9 +25,9 @@ Welcome to the course website. After each lecture we will post links to the lect
   - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](Class%203%20Software/ArduinoDataLogging.zip)
 - [Assignment 3 Answers — Nose Poke with User Inputs](Class%203%20Software/NosePokeWithUserInputs_Answer.zip)
 
-## Class 4 (11/13)
-- [Lecture Slides](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
-- [Multimeter Assignment](Class%204%20Debugging/DMM%20Assignment.pdf)
+## Bonus Material
+- [Debugging Lecture Slides](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
+- ["Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf)
 
 
 
@@ -42,7 +42,7 @@ Welcome to the course website. After each lecture we will post links to the lect
 - [gammon.com.au](http://gammon.com.au/forum/bbshowpost.php?bbtopic_id=123)
 
 ### Introductory kit with parts & instructions:
-- [SparkFun Inventor's Kit](http://www.sparkfun.com/products/14189) \(~$100\)
+- [SparkFun Inventor's Kit](https://www.sparkfun.com/products/15631) \(~$100\)
 
 ### Parts
 These 3 stores have a curated selection and information for new users:
