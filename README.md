@@ -26,7 +26,7 @@ Welcome to the course website. After each lecture we will post links to the lect
 - [Assignment 3 Answers — Nose Poke with User Inputs](Class%203%20Software/NosePokeWithUserInputs_Answer.zip)
 
 ## Bonus Material
-- [Debugging Lecture Slides](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
+- [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
 - ["Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf)
 
 
