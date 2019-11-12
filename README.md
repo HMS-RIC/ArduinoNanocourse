@@ -7,23 +7,23 @@ Welcome to the course website. After each lecture we will post links to the lect
 - [Lecture Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf)
 - [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf)
   - [Download Basic Blink program](Class%201%20Introduction/Basic_Blink.zip?raw=true)
-- [Assignment 1 Answers](Class%201%20Introduction/Assignment%201%20Answers.zip)
+- [Assignment 1 Answers (zip file)](Class%201%20Introduction/Assignment%201%20Answers.zip?raw=true)
 
 ## Class 2 (11/15)
 - [Lecture Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf)
 - [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke.pdf)
-- [Assignment 2 Answers](Class%202%20Electronics/Assignment2_Answer.zip)
+- [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
 
 ## Class 3 (11/19)
 - [Lecture Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf)
 - [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf)
 - Examples from lecture:
   - [Demos](Class%203%20Software/arduino_course_fall18_class3.zip)
-  - [Arduino Serial Parsing Example](Class%203%20Software/simple_serial_parsing.zip)
-  - [Arduino millis() rollover](Class%203%20Software/arduino_uno_millis_rollover.zip)
+  - [Arduino Serial Parsing Example (zip file)](Class%203%20Software/simple_serial_parsing.zip?raw=true)
+  - [Arduino millis() rollover (zip file)](Class%203%20Software/arduino_uno_millis_rollover.zip?raw=true)
 - More Example Code
-  - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](Class%203%20Software/ArduinoDataLogging.zip)
-- [Assignment 3 Answers — Nose Poke with User Inputs](Class%203%20Software/NosePokeWithUserInputs_Answer.zip)
+  - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](Class%203%20Software/ArduinoDataLogging.zip?raw=true)
+- [Assignment 3 Answers — Nose Poke with User Inputs (zip file)](Class%203%20Software/NosePokeWithUserInputs_Answer.zip?raw=true)
 
 ## Bonus Material
 - [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
