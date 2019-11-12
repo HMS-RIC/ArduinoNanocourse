@@ -18,7 +18,7 @@ Welcome to the course website. After each lecture we will post links to the lect
 - [Lecture Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf)
 - [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf)
 - Examples from lecture:
-  - [Demos](Class%203%20Software/arduino_course_fall18_class3.zip)
+  - [Demos (zip file)](Class%203%20Software/arduino_course_fall18_class3.zip?raw=true)
   - [Arduino Serial Parsing Example (zip file)](Class%203%20Software/simple_serial_parsing.zip?raw=true)
   - [Arduino millis() rollover (zip file)](Class%203%20Software/arduino_uno_millis_rollover.zip?raw=true)
 - More Example Code
