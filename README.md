@@ -1,7 +1,7 @@
 # *Arduino for Biologists*
 Nanocourse, Summer 2020
 
-Welcome to the course website. For weach class we provide lecture videos, lecture slides, assignments, and answer keys. You will also find links to helpful resources.
+Welcome to the course website. For each class we provide lecture videos, lecture slides, assignments, and answer keys. You will also find links to helpful resources.
 
 ## Class 1 (June 8)
 - [Lecture](https://www.youtube.com/watch?v=NYQ_q1zXu3o&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2&t=0s)
