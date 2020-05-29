@@ -13,7 +13,7 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 ## Class 2 (June 15)
 - [Lecture](https://www.youtube.com/watch?v=Jh5kKC_8vZ4&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2)
 - [Lecture Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf)
-- [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke-v2.pdf)
+- [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke%20-%20v2.pdf)
 - [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
 
 ## Class 3 (June 22)
