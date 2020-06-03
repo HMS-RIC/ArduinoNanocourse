@@ -9,6 +9,9 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 - [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf)
   - [Download Basic Blink program](Class%201%20Introduction/Basic_Blink.zip?raw=true)
 - [Assignment 1 Answers (zip file)](Class%201%20Introduction/Assignment%201%20Answers.zip?raw=true)
+- [Video Tutorial for Questions 1 and 2](https://www.youtube.com/watch?v=65ZSUOBDW9Q&feature=youtu.be)
+- [Video Tutorial for Question 3](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Written Tutorial for Question 9](Class%201%20Introduction/Q9ReactionTime.zip?raw=true)
 
 ## Class 2 (June 15)
 - [Lecture](https://www.youtube.com/watch?v=Jh5kKC_8vZ4&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2)
