@@ -4,7 +4,7 @@ Nanocourse, Summer 2020
 Welcome to the course website. For each class we provide lecture videos, lecture slides, assignments, and answer keys. You will also find links to helpful resources.
 
 ## Class 1 (June 8)
-- [Lecture](https://www.youtube.com/watch?v=NYQ_q1zXu3o&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2&t=0s)
+- [Lecture Video](https://www.youtube.com/watch?v=NYQ_q1zXu3o&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2&t=0s)
 - [Lecture Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf)
 - [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf)
   - [Download Basic Blink program](Class%201%20Introduction/Basic_Blink.zip?raw=true)
@@ -14,13 +14,13 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 - [Written Tutorial for Question 9](Class%201%20Introduction/Q9ReactionTime.zip?raw=true)
 
 ## Class 2 (June 15)
-- [Lecture](https://www.youtube.com/watch?v=Jh5kKC_8vZ4&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2)
+- [Lecture Video](https://www.youtube.com/watch?v=Jh5kKC_8vZ4&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2)
 - [Lecture Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf)
 - [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke%20-%20v2.pdf)
 - [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
 
 ## Class 3 (June 22)
-- [Lecture](https://www.youtube.com/watch?v=pOjbI4eo-tU&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=3)
+- [Lecture Video](https://www.youtube.com/watch?v=pOjbI4eo-tU&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=3)
 - [Lecture Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf)
 - [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf)
 - Examples from lecture:
@@ -32,7 +32,7 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 - [Assignment 3 Answers — Nose Poke with User Inputs (zip file)](Class%203%20Software/NosePokeWithUserInputs_Answer.zip?raw=true)
 
 ## Bonus Material
-- [Lecture 4: Debugging](https://www.youtube.com/watch?v=PTZ-si0-VJM&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=4)
+- [Lecture 4 Video: Debugging](https://www.youtube.com/watch?v=PTZ-si0-VJM&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=4)
 - [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
 - ["Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf)
 
