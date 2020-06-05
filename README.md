@@ -8,16 +8,18 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 - [Lecture 1 Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf)
 - [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf)
   - [Download Basic Blink program](Class%201%20Introduction/Basic_Blink.zip?raw=true)
-- [Assignment 1 Answers (zip file)](Class%201%20Introduction/Assignment%201%20Answers.zip?raw=true)
-- [Video Tutorial for Questions 1 and 2](https://www.youtube.com/watch?v=65ZSUOBDW9Q&feature=youtu.be)
-- [Video Tutorial for Question 3](https://www.youtube.com/watch?v=XdmwtngDCoY)
-- [Written Tutorial for Question 9](Class%201%20Introduction/Q9ReactionTime.zip?raw=true)
+- Answers & Tutorials
+  - [Assignment 1 Answers (zip file)](Class%201%20Introduction/Assignment%201%20Answers.zip?raw=true)
+  - [Video Tutorial for Questions 1 and 2](https://www.youtube.com/watch?v=65ZSUOBDW9Q&feature=youtu.be)
+  - [Video Tutorial for Question 3](https://www.youtube.com/watch?v=XdmwtngDCoY)
+  - [Written Tutorial for Question 9](Class%201%20Introduction/Q9ReactionTime.zip?raw=true)
 
 ## Class 2 (June 15)
 - [Lecture 2 Video](https://www.youtube.com/watch?v=Jh5kKC_8vZ4&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2)
 - [Lecture 2 Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf)
 - [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke%20-%20v2.pdf)
-- [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
+- Answers
+  - [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
 
 ## Class 3 (June 22)
 - [Lecture 3 Video](https://www.youtube.com/watch?v=pOjbI4eo-tU&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=3)
@@ -29,7 +31,8 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Arduino millis() rollover (zip file)](Class%203%20Software/arduino_uno_millis_rollover.zip?raw=true)
 - More Example Code
   - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](Class%203%20Software/ArduinoDataLogging.zip?raw=true)
-- [Assignment 3 Answers — Nose Poke with User Inputs (zip file)](Class%203%20Software/NosePokeWithUserInputs_Answer.zip?raw=true)
+- Answers
+  - [Assignment 3 Answers — Nose Poke with User Inputs (zip file)](Class%203%20Software/NosePokeWithUserInputs_Answer.zip?raw=true)
 
 ## Bonus Material
 - [Lecture 4 Video: Debugging](https://www.youtube.com/watch?v=PTZ-si0-VJM&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=4)
