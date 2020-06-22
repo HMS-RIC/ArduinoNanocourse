@@ -35,9 +35,11 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Assignment 3 Answers — Nose Poke with User Inputs (zip file)](Class%203%20Software/NosePokeWithUserInputs_Answer.zip?raw=true)
 
 ## Bonus Material
-- [Lecture 4 Video: Debugging](https://www.youtube.com/watch?v=PTZ-si0-VJM&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=4)
+- [Lecture 4 Video: Debugging](https://www.youtube.com/watch?v=PTZ-si0-VJM&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=4) 
+  - Strategies for debugging hardware and software, and for building devices that are less bug-prone and easier to debug
 - [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
-- ["Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf)
+- ["Practice Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf) 
+  - You can try this out if you have a digital miltimeter in lab or at home
 
 
 
