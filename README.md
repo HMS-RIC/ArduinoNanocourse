@@ -5,8 +5,8 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 
 ## Class 1 (May 5)
 - [Lecture 1 Video](https://www.youtube.com/watch?v=NYQ_q1zXu3o&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2&t=0s)
-- [Lecture 1 Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf)
-- [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf)
+- [Lecture 1 Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf?raw=true)
+- [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf?raw=true)
   - [Download Basic Blink program](Class%201%20Introduction/Basic_Blink.zip?raw=true)
 - Answers & Tutorials
   - [Assignment 1 Answers (zip file)](Class%201%20Introduction/Assignment%201%20Answers.zip?raw=true)
@@ -16,15 +16,15 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 
 ## Class 2 (May 12)
 - [Lecture 2 Video](https://www.youtube.com/watch?v=Jh5kKC_8vZ4&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2)
-- [Lecture 2 Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf)
-- [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke%20-%20v2.pdf)
+- [Lecture 2 Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf?raw=true)
+- [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke%20-%20v2.pdf?raw=true)
 - Answers
   - [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
 
 ## Class 3 (May 19)
 - [Lecture 3 Video](https://www.youtube.com/watch?v=pOjbI4eo-tU&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=3)
-- [Lecture 3 Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf)
-- [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf)
+- [Lecture 3 Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf?raw=true)
+- [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf?raw=true)
 - Examples from lecture:
   - [Demos (zip file)](Class%203%20Software/arduino_course_fall18_class3.zip?raw=true)
   - [Arduino Serial Parsing Example (zip file)](Class%203%20Software/simple_serial_parsing.zip?raw=true)
@@ -37,8 +37,8 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 ## Bonus Material
 - [Lecture 4 Video: Debugging](https://www.youtube.com/watch?v=PTZ-si0-VJM&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=4) 
   - Strategies for debugging hardware and software, and for building devices that are less bug-prone and easier to debug
-- [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf)
-- ["Practice Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf) 
+- [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf?raw=true)
+- ["Practice Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf?raw=true) 
   - You can try this out if you have a digital miltimeter in lab or at home
 
 
