@@ -3,7 +3,7 @@ Nanocourse, Spring 2022
 
 Welcome to the course website. For each class we provide lecture videos, lecture slides, assignments, and answer keys. You will also find links to helpful resources.
 
-## Class 1 (May 5)
+## Class 1 (December 1)
 - [Lecture 1 Video](https://www.youtube.com/watch?v=NYQ_q1zXu3o&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2&t=0s)
 - [Lecture 1 Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf?raw=true)
 - [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf?raw=true)
@@ -14,14 +14,14 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Video Tutorial for Question 3](https://www.youtube.com/watch?v=XdmwtngDCoY)
   - [Written Tutorial for Question 9](Class%201%20Introduction/Q9ReactionTime.zip?raw=true)
 
-## Class 2 (May 12)
+## Class 2 (December 8)
 - [Lecture 2 Video](https://www.youtube.com/watch?v=Jh5kKC_8vZ4&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2)
 - [Lecture 2 Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf?raw=true)
 - [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke%20-%202022.pdf?raw=true)
 - Answers
   - [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
 
-## Class 3 (May 19)
+## Class 3 (December 15)
 - [Lecture 3 Video](https://www.youtube.com/watch?v=pOjbI4eo-tU&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=3)
 - [Lecture 3 Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf?raw=true)
 - [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf?raw=true)
