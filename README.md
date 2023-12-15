@@ -25,15 +25,19 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 - **NOTE: This week only (Dec 15), class will be held in Armenise 108**
 - [Lecture 3 Video](https://www.youtube.com/watch?v=pOjbI4eo-tU&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=3)
 - [Lecture 3 Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf?raw=true)
-- [Assignment 3](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf?raw=true)
 - Examples from lecture:
   - [Demos (zip file)](Class%203%20Software/arduino_course_fall18_class3.zip?raw=true)
   - [Arduino Serial Parsing Example (zip file)](Class%203%20Software/simple_serial_parsing.zip?raw=true)
   - [Arduino millis() rollover (zip file)](Class%203%20Software/arduino_uno_millis_rollover.zip?raw=true)
+- Assignments:
+  - [Assignment 3a: Nose Poke Upgrades](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf?raw=true)
+  - [Assignment 3b: Connecting I2C Devices](Class%203%20Software/Serial Communication Exercise.pdf?raw=true)
+    - [Code skeleton for assignment 3b](Class%203%20Software/Counter_skleton.zip?raw=true)
 - More Example Code
   - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](Class%203%20Software/ArduinoDataLogging.zip?raw=true)
 - Answers
-  - [Assignment 3 Answers — Nose Poke with User Inputs (zip file)](Class%203%20Software/NosePokeWithUserInputs_Answer.zip?raw=true)
+  - [Assignment 3a Answers — Nose Poke with User Inputs (zip file)](Class%203%20Software/NosePokeWithUserInputs_Answer.zip?raw=true)
+  - [Assignment 3b Answers — Button counter with display (zip file)](Class%203%20Software/Counter_Answer.zip?raw=true)
 
 ## Bonus Material
 - [Lecture 4 Video: Debugging](https://www.youtube.com/watch?v=PTZ-si0-VJM&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=4) 
