@@ -31,7 +31,7 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Arduino millis() rollover (zip file)](Class%203%20Software/arduino_uno_millis_rollover.zip?raw=true)
 - Assignments:
   - [Assignment 3a: Nose Poke Upgrades](Class%203%20Software/Project%203%20-%20Behavior%20box%20contd.pdf?raw=true)
-  - [Assignment 3b: Connecting I2C Devices](Class%203%20Software/Serial%20Communication%20Exercise.pdf?raw=true)
+  - [Assignment 3b: Connecting I2C Devices](Class%203%20Software/Serial%20Communication%20Exercise-2.pdf?raw=true)
     - [Code skeleton for assignment 3b](Class%203%20Software/Counter_skleton.zip?raw=true)
 - More Example Code
   - [Example code for logging Ardunio data and saving to file. In Matlab, Python & R](Class%203%20Software/ArduinoDataLogging.zip?raw=true)
