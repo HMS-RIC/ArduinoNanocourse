@@ -1,5 +1,5 @@
 # *Arduino for Biologists*
-Nanocourse, Fall 2023
+Nanocourse, Fall 2025
 
 Welcome to the course website. For each class we provide lecture videos, lecture slides, assignments, and answer keys. You will also find links to helpful resources.
 
