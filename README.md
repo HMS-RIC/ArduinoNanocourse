@@ -11,7 +11,7 @@ Welcome to the course website. For each class we provide lecture videos, lecture
 - Answers & Tutorials
   - [Assignment 1 Answers (zip file)](Class%201%20Introduction/Assignment%201%20Answers.zip?raw=true)
   - [Video Tutorial for Questions 1 and 2](https://www.youtube.com/watch?v=65ZSUOBDW9Q&feature=youtu.be)
-  - [Video Tutorial for Question 3](https://www.youtube.com/watch?v=XdmwtngDCoY)
+  - [Video Tutorial for Question 3](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1db0e049-b7bd-4867-8211-b3a0011737bf)
   - [Written Tutorial for Question 9](Class%201%20Introduction/Q9ReactionTime.zip?raw=true)
 
 ## Class 2 (December 8, 2025)
