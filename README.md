@@ -3,8 +3,8 @@ Nanocourse, Fall 2023
 
 Welcome to the course website. For each class we provide lecture videos, lecture slides, assignments, and answer keys. You will also find links to helpful resources.
 
-## Class 1 (December 1, 2023)
-- [Lecture 1 Video](https://www.youtube.com/watch?v=NYQ_q1zXu3o&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2&t=0s)
+## Class 1 (December 3, 2025)
+- [Lecture 1 Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=194939ee-7549-49aa-97db-b3a0010c831a)
 - [Lecture 1 Slides](Class%201%20Introduction/Arduino%20Nanocourse%20Day%201%20-%20Fall%202018.pdf?raw=true)
 - [Assignment 1](Class%201%20Introduction/Nanocourse%20Project%20Day%201.pdf?raw=true)
   - [Download Basic Blink program](Class%201%20Introduction/Basic_Blink.zip?raw=true)
@@ -14,16 +14,15 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Video Tutorial for Question 3](https://www.youtube.com/watch?v=XdmwtngDCoY)
   - [Written Tutorial for Question 9](Class%201%20Introduction/Q9ReactionTime.zip?raw=true)
 
-## Class 2 (December 8, 2023)
-- [Lecture 2 Video](https://www.youtube.com/watch?v=Jh5kKC_8vZ4&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=2)
+## Class 2 (December 8, 2025)
+- Lecture 2 Video \[Forthcoming\]
 - [Lecture 2 Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf?raw=true)
 - [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke%20-%202023.pdf?raw=true)
 - Answers
   - [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
 
-## Class 3 (December 15, 2023)
-- **NOTE: This week only (Dec 15), class will be held in Armenise 108**
-- [Lecture 3 Video](https://www.youtube.com/watch?v=pOjbI4eo-tU&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=3)
+## Class 3 (December 15, 2025)
+- [Lecture 3 Video] \[Forthcoming\]
 - [Lecture 3 Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf?raw=true)
 - Examples from lecture:
   - [Demos (zip file)](Class%203%20Software/arduino_course_fall18_class3.zip?raw=true)
@@ -40,7 +39,7 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Assignment 3b Answers — Button counter with display (zip file)](Class%203%20Software/Counter_Answer.zip?raw=true)
 
 ## Bonus Material
-- [Lecture 4 Video: Debugging](https://www.youtube.com/watch?v=PTZ-si0-VJM&list=PLuZA7lxOrKUffeByFZd4OBKs_K7xEsmox&index=4) 
+- [Lecture 4 Video: Debugging] \[Forthcoming\]
   - Strategies for debugging hardware and software, and for building devices that are less bug-prone and easier to debug
 - [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf?raw=true)
 - ["Practice Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf?raw=true) 
