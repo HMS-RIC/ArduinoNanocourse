@@ -15,7 +15,7 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Written Tutorial for Question 9](Class%201%20Introduction/Q9ReactionTime.zip?raw=true)
 
 ## Class 2 (December 8, 2025)
-- Lecture 2 Video \[Forthcoming\]
+- [Lecture 2 Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b57b5aad-43b8-474c-95e4-b3a801135c19)
 - [Lecture 2 Slides](Class%202%20Electronics/Arduino%20Nanocourse%20Day%202%20-%20Fall%202018%20Slides%20Final.pdf?raw=true)
 - [Assignment 2 (Nose Poke)](Class%202%20Electronics/Project%202%20-%20Nose%20Poke%20-%202023.pdf?raw=true)
 - Answers
