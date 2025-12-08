@@ -39,9 +39,9 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Assignment 3b Answers — Button counter with display (zip file)](Class%203%20Software/Counter_Answer.zip?raw=true)
 
 ## Bonus Material
-- [Lecture 4 Video: Debugging](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6850882-d934-41d6-8672-b3ad013400aa)
+- [Lecture 4 Video: Testing & Debugging](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6850882-d934-41d6-8672-b3ad013400aa)
   - Strategies for debugging hardware and software, and for building devices that are less bug-prone and easier to debug
-- [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf?raw=true)
+- [Slides for Bonus Lecture on Testing & Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf?raw=true)
 - ["Practice Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf?raw=true) 
   - You can try this out if you have a digital miltimeter in lab or at home
 
