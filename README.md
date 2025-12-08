@@ -22,7 +22,7 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Assignment 2 Answers (zip file)](Class%202%20Electronics/Assignment2_Answer.zip?raw=true)
 
 ## Class 3 (December 15, 2025)
-- [Lecture 3 Video] \[Forthcoming\]
+- [Lecture 3 Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b28b040e-93e2-4fcd-bb30-b3ad0133d64f)
 - [Lecture 3 Slides](Class%203%20Software/Arduino%20Nanocourse%20Day%203%20-%20Software.pdf?raw=true)
 - Examples from lecture:
   - [Demos (zip file)](Class%203%20Software/arduino_course_fall18_class3.zip?raw=true)
@@ -39,7 +39,7 @@ Welcome to the course website. For each class we provide lecture videos, lecture
   - [Assignment 3b Answers — Button counter with display (zip file)](Class%203%20Software/Counter_Answer.zip?raw=true)
 
 ## Bonus Material
-- [Lecture 4 Video: Debugging] \[Forthcoming\]
+- [Lecture 4 Video: Debugging](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6850882-d934-41d6-8672-b3ad013400aa)
   - Strategies for debugging hardware and software, and for building devices that are less bug-prone and easier to debug
 - [Slides for Bonus Lecture on Debugging](Class%204%20Debugging/Class%204%20-%20Debugging.pdf?raw=true)
 - ["Practice Using a Multimeter" Assignment](Class%204%20Debugging/DMM%20Assignment.pdf?raw=true) 
